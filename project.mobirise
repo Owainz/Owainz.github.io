@@ -87,6 +87,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -108,8 +111,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "FAST - SECURE - POWERFUL",
-          "text": "Fast - Secure - Powerful. All cheats we make are made with detail, and skill. All invisable to each anti-cheat. We make sure you enjoy the experience.",
+          "title": "We make sure, you're ontop of the game.",
+          "text": "Each cheat is carefully designed with a clean UI friendly for everyone to use. With our powerful cheats you're going to be able to dominate every game.",
           "_tags": [
             "Theme"
           ],

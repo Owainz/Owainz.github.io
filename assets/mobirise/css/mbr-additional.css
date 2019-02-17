@@ -425,3 +425,6 @@ h6,
 #msg-box3-b p {
   color: #000;
 }
+#msg-box3-b .mbr-section-title {
+  font-size: 36px;
+}
