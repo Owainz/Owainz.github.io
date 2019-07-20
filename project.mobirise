@@ -43,7 +43,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 21,
     "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1aad35e7a27440ec940d7bef6411df59-ce5-icon.ico",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
